@@ -30,4 +30,4 @@ OK
 
 Sube el repositorio local al que acabas de crear en Github.
 
-git push https://ghp--PRIVADO--WS@github.com/pvvic/holagit.git master
+git push https://ghp--PRIVADO--WS@github.com/pvvic/holagit.git master:main
