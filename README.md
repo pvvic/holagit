@@ -20,6 +20,13 @@ git add .
 
 git commit -m "Añadir hola.txt y git.txt"
 
+
+Añado README.md
+
+git add .
+
+git commit -m "Añadir README.md"
+
 Create una cuenta en github (si no la tienes ya).
 
 OK
